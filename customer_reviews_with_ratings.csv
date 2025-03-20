@@ -1,0 +1,151 @@
+userID,userName,productID,date_of_order,rating,review,behavior
+U001,Isaac,P1420,2025-01-24,1,Impressed by the build quality.,Returned
+U002,Cynthia,P1959,2024-03-07,2,Arrived earlier than expected. Pleasantly surprised.,Reordered
+U003,Robert,P1221,2025-02-02,3,Elegant and modern design.,Reordered
+U004,Lindsay,P1421,2023-06-07,4,Exceeded my expectations. Will buy again.,Returned
+U005,Jessica,P1864,2025-03-08,5,Doesn't work as expected. Poor performance.,Reordered
+U006,Sabrina,P1974,2024-11-10,6,Terrible packaging. Item got damaged.,Reordered
+U007,Todd,P1540,2023-11-04,7,Poor finish. Looks cheap.,Reordered
+U008,Dakota,P1454,2023-08-12,8,Perfect fit and excellent material.,Reordered
+U009,Daniel,P1502,2023-12-27,9,Difficult to assemble. Poor instructions.,Reordered
+U010,Matthew,P1865,2024-10-18,10,Didn't meet my expectations. Will return.,Reordered
+U011,Douglas,P1930,2024-01-14,11,Solid construction and stylish design.,Reordered
+U012,Sean,P1194,2023-11-11,12,Faulty product. Had to return it.,Reordered
+U013,Donna,P1016,2024-04-16,13,Arrived earlier than expected. Great service.,Reordered
+U014,Chelsey,P1063,2023-08-29,14,Beautiful design. Very stylish.,Returned
+U015,Rebecca,P1253,2023-11-02,15,Broke after a few uses. Disappointed.,Reordered
+U016,Elizabeth,P1749,2023-12-25,16,Low-quality material. Won't buy again.,Reordered
+U017,Thomas,P1435,2025-02-03,17,Customer service was unresponsive. Frustrating experience.,Reordered
+U018,James,P1066,2024-07-17,18,Uncomfortable and cheaply made.,Reordered
+U019,Joshua,P1615,2024-07-24,19,Inaccurate description. Disappointed.,Returned
+U020,Teresa,P1692,2024-05-21,20,Not as described. Disappointed.,Returned
+U021,Lisa,P1899,2024-09-23,21,Terrible quality. Wouldn't recommend to anyone.,Returned
+U022,Melissa,P1721,2024-04-15,22,Simple and efficient. Happy with the purchase.,Reordered
+U023,Donald,P1736,2025-03-05,23,Battery drains quickly. Disappointed.,Reordered
+U024,Alexandra,P1803,2023-04-10,24,Fantastic product! Highly recommended.,Returned
+U025,Nathan,P1590,2023-09-30,25,Cheap and flimsy. Do not buy.,Returned
+U026,Megan,P1882,2023-12-21,26,Amazing quality for the price point.,Reordered
+U027,Taylor,P1873,2025-01-22,27,Delivered in perfect condition.,Reordered
+U028,Tammy,P1858,2023-09-11,28,Very convenient and easy to use.,Returned
+U029,Regina,P1622,2024-06-28,29,Broke within a week. Very disappointed.,Reordered
+U030,Hunter,P1800,2023-09-24,30,Super fast delivery. Very happy.,Reordered
+U031,Chelsey,P1230,2024-06-08,31,Arrived earlier than expected. Great service.,Reordered
+U032,Jeremy,P1273,2024-06-04,32,Difficult to clean. Not practical.,Returned
+U033,Chelsea,P1945,2025-02-27,33,Excellent performance. Very satisfied.,Reordered
+U034,Donna,P1958,2024-01-13,34,Superb customer service. Five stars!,Reordered
+U035,Alan,P1327,2024-09-17,35,Doesn't hold a charge. Useless.,Returned
+U036,Tom,P1478,2025-03-18,36,Solid construction and stylish design.,Returned
+U037,Claudia,P1972,2024-05-13,37,Very lightweight and durable.,Reordered
+U038,Audrey,P1341,2023-11-01,38,Impressive speed and efficiency.,Reordered
+U039,Shannon,P1365,2024-12-03,39,Misleading images. Very disappointed.,Reordered
+U040,Alexis,P1302,2023-08-05,40,Excellent performance. Very satisfied.,Reordered
+U041,Jennifer,P1487,2024-03-14,41,Terrible quality. Wouldn't recommend to anyone.,Returned
+U042,Amy,P1634,2023-08-02,42,Received used product. Very disappointed.,Returned
+U043,Nathan,P1920,2025-01-16,43,Amazing quality for the price point.,Returned
+U044,Shawn,P1040,2024-12-05,44,Compact and easy to store.,Reordered
+U045,Abigail,P1722,2023-12-19,45,Difficult to assemble. Poor instructions.,Returned
+U046,Olivia,P1166,2023-12-25,46,Very reliable and easy to maintain.,Returned
+U047,Raymond,P1685,2024-04-08,47,Flimsy and low-quality materials.,Returned
+U048,Andrea,P1484,2023-10-06,48,User-friendly and stylish.,Returned
+U049,Kevin,P1643,2024-06-03,49,Item was missing parts. Had to return.,Returned
+U050,Elizabeth,P1758,2023-12-27,50,Didn't fit as expected. Had to return.,Reordered
+U051,Gabrielle,P1771,2023-12-21,51,Great features but difficult to use.,Reordered
+U052,Brendan,P1164,2023-05-30,52,Super fast delivery. Very happy.,Reordered
+U053,Tyler,P1168,2024-10-17,53,Not as described. Disappointed.,Returned
+U054,Sarah,P1694,2024-08-08,54,Very stylish and practical. Love it!,Returned
+U055,Dustin,P1225,2024-01-25,55,Smooth and easy to operate.,Returned
+U056,Kevin,P1361,2024-10-08,56,Flawless performance. Highly satisfied.,Reordered
+U057,Christopher,P1131,2023-04-07,57,Smooth transaction. Will recommend to others.,Reordered
+U058,Steven,P1414,2024-09-30,58,Item didn't work as advertised. Waste of money.,Reordered
+U059,John,P1113,2023-05-20,59,Clunky and difficult to operate.,Returned
+U060,Henry,P1947,2023-05-21,60,Elegant and modern design.,Returned
+U061,Brooke,P1738,2024-05-10,61,Battery drains quickly. Disappointed.,Returned
+U062,Emma,P1562,2024-02-17,62,Scratches on arrival. Disappointed.,Returned
+U063,Shelby,P1613,2024-05-25,63,Very easy to install. Great product.,Returned
+U064,Alejandro,P1777,2024-10-19,64,Cheap material. Not recommended.,Reordered
+U065,Emily,P1004,2023-03-23,65,Exactly what I was looking for.,Reordered
+U066,Kristy,P1860,2024-11-17,66,Exceeded my expectations. Highly satisfied.,Returned
+U067,Christopher,P1813,2023-10-05,67,Excellent packaging. No damage.,Returned
+U068,Amy,P1290,2023-11-23,68,Impressive speed and efficiency.,Reordered
+U069,Victor,P1968,2025-02-09,69,Doesn't hold a charge. Useless.,Reordered
+U070,Sheri,P1465,2023-11-04,70,Terrible packaging. Item got damaged.,Returned
+U071,Austin,P1660,2024-03-12,71,Packaging was poor. Item got damaged.,Returned
+U072,Suzanne,P1531,2024-06-12,72,Very easy to install. Great product.,Reordered
+U073,Matthew,P1413,2023-12-18,73,Perfect fit. Very comfortable.,Returned
+U074,Patricia,P1749,2023-06-25,74,Absolutely love it! Great value for money.,Reordered
+U075,Russell,P1136,2024-06-03,75,Low-quality material. Won't buy again.,Reordered
+U076,Lisa,P1852,2024-08-30,76,Not the color I ordered. Disappointed.,Returned
+U077,Desiree,P1853,2024-11-29,77,Broke after a few uses. Disappointed.,Returned
+U078,Madison,P1780,2023-07-30,78,Weak build quality. Won't last long.,Returned
+U079,Joshua,P1534,2023-07-13,79,Item was missing parts. Had to return.,Reordered
+U080,Robert,P1164,2025-03-12,80,Low-quality components. Waste of money.,Returned
+U081,Kathryn,P1845,2023-12-20,81,Excellent value for money.,Returned
+U082,Robert,P1517,2023-11-02,82,Difficult to set up. Instructions unclear.,Returned
+U083,Jasmine,P1051,2024-06-21,83,Stopped working after a month.,Returned
+U084,Mark,P1387,2023-10-19,84,Sturdy and reliable. Worth the investment.,Returned
+U085,James,P1275,2023-05-04,85,Battery drains quickly. Disappointed.,Returned
+U086,Mary,P1106,2023-07-20,86,Fantastic value for money. Very happy.,Returned
+U087,Gabriel,P1353,2024-10-31,87,Elegant design and user-friendly.,Returned
+U088,Lisa,P1227,2024-02-17,88,Beautiful design. Very stylish.,Returned
+U089,Rachel,P1134,2023-11-06,89,Amazing quality for the price point.,Returned
+U090,Rebecca,P1355,2023-05-01,90,Unreliable. Stopped working quickly.,Reordered
+U091,Gregory,P1354,2024-03-26,91,Customer support was very helpful.,Reordered
+U092,Nicholas,P1644,2025-02-08,92,Flawless performance. Highly satisfied.,Returned
+U093,Jessica,P1520,2024-08-15,93,Superb customer service. Five stars!,Reordered
+U094,Jessica,P1723,2024-07-20,94,The item arrived late and was damaged. Disappointed.,Returned
+U095,Michael,P1607,2024-10-20,95,Not the color I ordered. Disappointed.,Returned
+U096,Lauren,P1321,2023-11-24,96,Didn't fit as expected. Had to return.,Returned
+U097,Kenneth,P1441,2023-04-15,97,Customer service was unresponsive. Frustrating experience.,Reordered
+U098,Danielle,P1536,2023-12-23,98,Customer support was very helpful.,Returned
+U099,Tammy,P1443,2024-12-09,99,Not as described. Disappointed.,Returned
+U100,Kimberly,P1423,2024-04-05,100,Color was slightly off. Still happy.,Returned
+U101,Dana,P1979,2025-01-21,101,Didn't fit as expected. Had to return.,Returned
+U102,Jeffrey,P1388,2025-01-05,102,Very reliable and easy to maintain.,Reordered
+U103,Max,P1694,2024-02-21,103,Very stylish and practical. Love it!,Returned
+U104,Jason,P1164,2024-11-28,104,User-friendly and stylish.,Reordered
+U105,Larry,P1215,2023-07-27,105,Low-quality material. Won't buy again.,Reordered
+U106,Megan,P1087,2024-06-06,106,Loose stitching. Poor quality.,Returned
+U107,Cassandra,P1877,2024-12-22,107,Too expensive for the quality offered.,Reordered
+U108,David,P1025,2024-01-07,108,Difficult to set up. Instructions unclear.,Returned
+U109,Debbie,P1737,2023-12-11,109,Cheap material. Not recommended.,Returned
+U110,Sharon,P1932,2023-09-09,110,Excellent craftsmanship. Highly durable.,Reordered
+U111,Debra,P1249,2025-02-19,111,Didn't meet my expectations. Will return.,Returned
+U112,Christine,P1022,2023-06-05,112,Excellent performance. Very satisfied.,Reordered
+U113,Kimberly,P1225,2024-02-25,113,Fantastic customer experience.,Returned
+U114,Stacy,P1778,2024-08-05,114,Very stylish and trendy.,Returned
+U115,Kenneth,P1749,2024-04-13,115,Fantastic customer experience.,Reordered
+U116,Timothy,P1620,2023-07-29,116,Customer service was unresponsive. Frustrating experience.,Returned
+U117,Jennifer,P1277,2025-01-27,117,Didn't meet my expectations. Will return.,Returned
+U118,Michael,P1984,2023-04-13,118,Compact and easy to store.,Returned
+U119,Barbara,P1908,2024-03-24,119,Too expensive for the quality offered.,Reordered
+U120,Jaclyn,P1110,2024-10-14,120,Perfect fit and excellent material.,Returned
+U121,Sean,P1533,2025-03-10,121,Shipping took forever. Not worth it.,Returned
+U122,Angel,P1507,2025-02-11,122,Faulty product. Had to return it.,Reordered
+U123,Annette,P1335,2023-08-12,123,Exceeded my expectations. Will buy again.,Reordered
+U124,Jesse,P1284,2024-06-02,124,Loved it. Will buy again.,Reordered
+U125,April,P1352,2023-04-26,125,Highly portable and lightweight.,Reordered
+U126,Lori,P1727,2023-07-26,126,Delivered in perfect condition.,Reordered
+U127,Russell,P1523,2024-11-11,127,Poor finish. Looks cheap.,Reordered
+U128,Crystal,P1541,2023-10-11,128,Delivered in perfect condition.,Returned
+U129,Michael,P1795,2023-12-30,129,Great customer support. Solved my issue quickly.,Reordered
+U130,Phillip,P1217,2025-01-15,130,Low-quality material. Won't buy again.,Returned
+U131,John,P1101,2023-12-30,131,Smooth and easy to operate.,Reordered
+U132,Alfred,P1511,2023-04-28,132,Flimsy and poorly made.,Reordered
+U133,Joel,P1237,2023-04-02,133,Terrible experience. Won't recommend.,Returned
+U134,Russell,P1819,2024-04-21,134,Not worth the price. Regret purchasing it.,Returned
+U135,Elizabeth,P1264,2024-06-18,135,Very comfortable and fits well.,Reordered
+U136,Richard,P1900,2024-09-20,136,Very comfortable and fits well.,Returned
+U137,John,P1688,2024-05-11,137,Battery drains quickly. Disappointed.,Reordered
+U138,Brian,P1632,2024-07-13,138,Exceeded my expectations. Great value.,Returned
+U139,Jeffrey,P1037,2025-02-21,139,Decent product for the price. Satisfactory.,Reordered
+U140,Cameron,P1594,2024-06-21,140,The color faded after one wash. Disappointed.,Returned
+U141,Robert,P1008,2024-03-02,141,Fantastic customer experience.,Reordered
+U142,Michael,P1515,2023-06-15,142,Too expensive for the quality offered.,Reordered
+U143,Jeremy,P1902,2024-02-26,143,Great sound quality. Very happy.,Returned
+U144,William,P1287,2023-09-14,144,Super fast delivery. Very happy.,Returned
+U145,Gregory,P1372,2024-07-16,145,Very lightweight and durable.,Reordered
+U146,Martha,P1572,2023-08-09,146,The color faded after one wash. Disappointed.,Reordered
+U147,Donald,P1160,2024-09-22,147,Not functional as described.,Reordered
+U148,David,P1954,2024-08-28,148,Compact and easy to store.,Returned
+U149,Tina,P1338,2023-09-17,149,Arrived earlier than expected. Pleasantly surprised.,Returned
+U150,Beth,P1084,2024-03-17,150,Not worth the money. Disappointed.,Returned
